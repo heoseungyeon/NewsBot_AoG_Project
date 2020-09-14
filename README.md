@@ -1,5 +1,5 @@
 # NewsBot_AoG_Project
-기사 알리미 AoG 서비스
+기사 알리미 AoG 서비스 Server Part 
 
 <li>JSoup + Selenium 라이브러리를 통한 Crawler 모듈</li> 
 
